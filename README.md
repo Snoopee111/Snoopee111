@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Snoopee110
 - 👀 I’m interested in Gaming and Streaming
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on A spin-off of Toontown
 - 📫 How to reach me Discord: Andrew C#0163
 
 <!---
